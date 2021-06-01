@@ -1,0 +1,75 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "44644e46-0749-4596-a190-be897e36146d",
+  "files": [],
+  "subMetas": {
+    "f0481": {
+      "importer": "gltf-mesh",
+      "uuid": "44644e46-0749-4596-a190-be897e36146d@f0481",
+      "displayName": "",
+      "id": "f0481",
+      "name": "Tube001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "44644e46-0749-4596-a190-be897e36146d@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4276": {
+      "importer": "gltf-scene",
+      "uuid": "44644e46-0749-4596-a190-be897e36146d@c4276",
+      "displayName": "",
+      "id": "c4276",
+      "name": "HelixPart.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "44644e46-0749-4596-a190-be897e36146d@c4276",
+    "assetFinder": {
+      "meshes": [
+        "44644e46-0749-4596-a190-be897e36146d@f0481"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "44644e46-0749-4596-a190-be897e36146d@ea6e2"
+      ],
+      "scenes": [
+        "44644e46-0749-4596-a190-be897e36146d@c4276"
+      ]
+    }
+  }
+}
